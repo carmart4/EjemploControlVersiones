@@ -24,3 +24,12 @@ lado <- 3
 areacuadrado <- lado ^ 2
 
 ```
+
+# Area triangulo
+
+```{r}
+base <- 3
+h <- 4
+areatriangulo <- base*h /2
+
+```
