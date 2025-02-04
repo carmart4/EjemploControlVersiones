@@ -42,3 +42,13 @@ h <- 4
 areatriangulo <- base*h
 
 ```
+
+# Area trapecio
+
+```{r}
+b <- 3
+B <- 2
+H <- 4
+areatriangulo <- (b+B)*H/2
+
+```
