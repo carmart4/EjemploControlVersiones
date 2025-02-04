@@ -6,6 +6,6 @@ LongitudCircunferencia <- function (r){
   return(2*3.14159*r)
 }
 
-PerimetroRectangulo <- funcion (b, h) {
-  return(b*h)
+PerimetroRectangulo <- funcion (L, l) {
+  return((L+l)*2)
 }
