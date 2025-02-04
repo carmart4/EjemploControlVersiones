@@ -33,3 +33,12 @@ h <- 4
 areatriangulo <- base*h /2
 
 ```
+
+# Area rectangulo
+
+```{r}
+base <- 3
+h <- 4
+areatriangulo <- base*h
+
+```
