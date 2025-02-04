@@ -1,0 +1,18 @@
+---
+title: "Areas"
+author: "Santi"
+date: "2025-02-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Area circulo
+
+```{r}
+r <- 0.5
+area <- pi * r ^ 2
+
+```
