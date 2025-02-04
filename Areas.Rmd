@@ -16,3 +16,11 @@ r <- 0.5
 area <- pi * r ^ 2
 
 ```
+
+# Area cuadrado
+
+```{r}
+lado <- 3
+areacuadrado <- lado ^ 2
+
+```
